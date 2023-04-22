@@ -1,4 +1,5 @@
 # git2gpt
+[Mirror of git2gpt](https://github.com/karnagraha/git2gpt)
 
 This repository is an experiment at bootstrapping prompt-driven self-modifying software with GPT-4.
 
